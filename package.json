@@ -1,0 +1,27 @@
+{
+  "name": "quick-talk-back-end",
+  "version": "1.0.0",
+  "description": "区域快速聊天系统后端开发",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilongllong/quick-talk-back-end.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilongllong/quick-talk-back-end/issues"
+  },
+  "homepage": "https://github.com/lilongllong/quick-talk-back-end#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "^1.5.1"
+  },
+  "devDependencies": {
+    "jquery": "^3.1.1"
+  }
+}
